@@ -33,6 +33,6 @@ Thanks for visiting my GitHub page. I am an aspiring graphics designer and full-
 
 <img align="left" src="./assests/ME-pf.gif" width="200">
 
-[LinkedIn](https://www.linkedin.com/in/collinscomondi/) <br>
-[Instagram](https://www.instagram.com/someprofoundname/) <br>
-[Website_Portfolio](https://www.someprofoundname.com)
+- [LinkedIn](https://www.linkedin.com/in/collinscomondi/) <br> <br>
+- [Instagram](https://www.instagram.com/someprofoundname/) <br> <br>
+- [Website_Portfolio](https://www.someprofoundname.com)
