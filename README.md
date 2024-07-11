@@ -27,6 +27,8 @@ Thanks for visiting my GitHub page. I am an aspirating graphics designer and ful
 - Learning React.
 - Looking for a job in tech.
 
+---
+
 ### Socials <img src="./assests/ME-pf.gif" width="50">
 
 [LinkedIn](https://www.linkedin.com/in/collinscomondi/)
