@@ -29,7 +29,9 @@ Thanks for visiting my GitHub page. I am an aspirating graphics designer and ful
 
 ---
 
-### Socials <img src="./assests/ME-pf.gif" width="50">
+### Socials 
+
+<img align="left" src="./assests/ME-pf.gif" width="200">
 
 [LinkedIn](https://www.linkedin.com/in/collinscomondi/)
 [Instagram](https://www.instagram.com/someprofoundname/)
