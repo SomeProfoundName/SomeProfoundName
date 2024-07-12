@@ -33,4 +33,4 @@ Thanks for visiting my GitHub page. I am an aspiring graphics designer and full-
 
 - [LinkedIn](https://www.linkedin.com/in/collinscomondi/) <br>
 - [Instagram](https://www.instagram.com/someprofoundname/) <br>
-- [Website_Portfolio](https://www.someprofoundname.com)
+- [Website Portfolio](https://www.someprofoundname.com)
