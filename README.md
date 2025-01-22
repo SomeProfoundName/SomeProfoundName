@@ -21,7 +21,7 @@ Thanks for visiting my GitHub page. I am an aspiring graphics designer and full-
 
 ### Currently
 
-- Currently on a software development bootcamp with JustIt
+- Currently on a software development bootcamp with JustIt <br>
 <s>Following a Data Structures and Algorithms in Python course on Udemy.</s>
 - Learning React.
 - Looking for a job in tech.
