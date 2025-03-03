@@ -16,6 +16,7 @@ Thanks for visiting my GitHub page. I am an aspiring graphics designer and full-
 <code><img src="./assests/css.png" alt="html" width="20"></code>
 <code><img src="./assests/js.png" alt="html" width="20"></code>
 <code><img src="./assests/python.png" alt="html" width="20"></code>
+<code><img src="./assests/Sql_data_base_with_logo.png" width="20"></code>
 
 ---
 
