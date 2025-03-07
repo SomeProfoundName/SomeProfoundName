@@ -1,6 +1,6 @@
 # Welcome!
 
-![banner.png](./assests/banner.png)
+![banner.png](./assests/banner.jpg)
 
 ---
 
